@@ -242,7 +242,7 @@
     margin-top: 2px;
   }
   
-  /* ============ Projects grid ============ */
+  /*  Projects grid  */
   .grid{
     display: grid;
     grid-template-columns: repeat(3, minmax(0,1fr));
@@ -289,7 +289,7 @@
     color: var(--muted);
   }
   
-  /* ============ Timeline ============ */
+  /*  Timeline  */
   .timeline{
     display: grid;
     gap: 14px;
